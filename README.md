@@ -11,7 +11,7 @@ Læg alle kodefiler og kode i samme folder og tilføj til GitHub. I kan tilføje
   
 ## GitHub
 * tip 1: .gitignore fortæller, hvad der *ikke* skal med, når I bruger git add
-* tip 2: git config global.editor "nano" giver en editor, der er lettere at bruge end VI. Den bruges kun, når det bliver svært, som f.eks. ved manglende commit-besked
+* tip 2: git config --global core.editor "nano" giver en editor, der er lettere at bruge end VI. Den bruges kun, når det bliver svært, som f.eks. ved manglende commit-besked. Windows-brugere kan evt. bruge "notepad.exe" i stedet.
   ## Øvelser
   Ekstra øvelser til if. Self-check øvelse 2 og øvelsen med funktionen, der giver dage i måneden er vigtige. Desuden en lille ekstraøvelse ud over dem i allerede har fået.
   
