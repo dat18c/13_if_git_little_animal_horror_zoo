@@ -7,11 +7,15 @@
 
 Little Animal Horror Zoo skal afleveres onsdag inden kl. 16
 
-Læg alle kodefiler og kode i samme folder og tilføj til GitHub. I kan tilføje ad flere omgange
+Læg alle kodefiler og kode i samme folder og tilføj til GitHub. I kan tilføje ad flere omgange. Upload links til GitHub repository i afleveringsmappen i Fronter.
   
 ## GitHub
-* tip 1: .gitignore fortæller, hvad der *ikke* skal med, når I bruger git add
-* tip 2: git config global.editor "nano" giver en editor, der er lettere at bruge end VI. Den bruges kun, når det bliver svært, som f.eks. ved manglende commit-besked
+  * tip 1: .gitignore fortæller, hvad der *ikke* skal med, når I bruger git add.
+  `````
+  echo "*.class" >> .gitignore
+  `````
+  giver sørger for at class-filer (compilerede java-filer) ikke tilføjes.
+* tip 2: git config --global core.editor "nano" giver en editor, der er lettere at bruge end VI. Den bruges kun, når det bliver svært, som f.eks. ved manglende commit-besked. Windows-brugere kan evt. bruge "notepad.exe" i stedet.
   ## Øvelser
   Ekstra øvelser til if. Self-check øvelse 2 og øvelsen med funktionen, der giver dage i måneden er vigtige. Desuden en lille ekstraøvelse ud over dem i allerede har fået.
   
