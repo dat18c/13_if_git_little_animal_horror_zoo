@@ -7,7 +7,7 @@
 
 Little Animal Horror Zoo skal afleveres onsdag inden kl. 16
 
-Læg alle kodefiler og kode i samme folder og tilføj til GitHub. I kan tilføje ad flere omgange
+Læg alle kodefiler og kode i samme folder og tilføj til GitHub. I kan tilføje ad flere omgange. Upload links til GitHub repository i afleveringsmappen i Fronter.
   
 ## GitHub
   * tip 1: .gitignore fortæller, hvad der *ikke* skal med, når I bruger git add.
